@@ -37,10 +37,13 @@ Daltonic Assist es una aplicación de accesibilidad visual diseñada en tiempo r
 
 ---
 
-## 📄 Licencia y Propiedad Intelectual
+## ⚖️ License & Copyright
 
-Copyright © 2026. Todos los derechos reservados.
-El código fuente y los algoritmos de procesamiento de imagen de esta aplicación pertenecen al repositorio privado del desarrollador. Queda terminantemente prohibida su copia, distribución o ingeniería inversa.
+Este proyecto es propiedad exclusiva de **Jaypsmall (Architect_d4d)**. Todos los derechos están reservados.
+
+🚫 **Queda estrictamente prohibida** la reproducción, distribución, modificación, uso comercial o redistribución de este software, código o ejecutables sin el consentimiento previo y por escrito del autor original. 
+
+Para cualquier consulta o solicitud de uso, puedes contactar a través de: `pekipekistani22@gmail.com`
 
 ---
 *Diseñado para hacer el mundo un poco más accesible.*
