@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Glow Ring -->
+    <path
+        android:pathData="M54,54m-32,0a32,32 0,1 1,64 0a32,32 0,1 1,-64 0"
+        android:strokeColor="#00C2FF"
+        android:strokeWidth="2"
+        android:strokeAlpha="0.5" />
+
+    <!-- The Eye / Diamond Shape -->
+    <!-- Top Segment (Red) -->
+    <path
+        android:fillColor="#FFFF003D"
+        android:pathData="M54,30 L78,54 L54,54 Z" />
+
+    <!-- Right Segment (Yellow) -->
+    <path
+        android:fillColor="#FFFFE600"
+        android:pathData="M54,54 L78,54 L54,78 Z" />
+
+    <!-- Bottom Segment (Green) -->
+    <path
+        android:fillColor="#00FF47"
+        android:pathData="M54,78 L30,54 L54,54 Z" />
+
+    <!-- Left Segment (Blue) -->
+    <path
+        android:fillColor="#00C2FF"
+        android:pathData="M54,54 L30,54 L54,30 Z" />
+
+    <!-- Center Pupil / Core -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+
+    <!-- Highlight Overlay -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M54,30 L78,54 L54,78 L30,54 Z" />
+
+    <!-- Stylized Eye Brackets -->
+    <path
+        android:strokeColor="#00FFE0"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M30,40 Q20,54 30,68" />
+    <path
+        android:strokeColor="#00FFE0"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M78,40 Q88,54 78,68" />
+
+</vector>
