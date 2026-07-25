@@ -1,19 +1,19 @@
-# 👁️ Daltonic Assist (v1.0.1)
+# 👁️ Daltonic Assist (v1.0)
 
-Daltonic Assist es una aplicación de accesibilidad visual diseñada en tiempo real para ayudar a personas con deficiencias en la percepción del color (daltonismo). A través de la cámara del dispositivo, la app procesa el entorno para aislar, resaltar y contrastar dinámicamente las frecuencias cromáticas más problemáticas.
+Daltonic Assist is a real-time visual accessibility app designed to help people with color perception deficiencies (color blindness). Using the device's camera, the app processes the environment to dynamically isolate, highlight, and contrast the most problematic color frequencies.
 
 ---
 
-## ✨ Características Principales
+## ✨ Key Features
 
-* **🔬 Aislamiento de Canales Cromáticos:** Filtra de forma selectiva los canales **Rojo (R)** y **Verde (G)** para ayudar a identificar elementos confusos en el entorno de manera inmediata.
-* **🔄 Modos de Visualización Avanzados:** 
-    * **Modo Onda / Patrón Dinámico:** Superpone patrones visuales (como líneas de contraste) sobre los colores conflictivos para diferenciarlos sin alterar el resto de la imagen.
-* **⚡ Control de Frecuencia (Hz):** Ajusta el parpadeo o refresco del procesamiento visual (desde 3.0 Hz hasta más de 8.0 Hz) para adaptar la sensibilidad de la app a las condiciones de luz y a la comodidad del usuario.
-* **🎯 Perfiles Especializados:** Configuración rápida con un solo toque para los tipos de daltonismo más comunes:
-    * **Protanopia** (Insensibilidad al color rojo)
-    * **Deuteranopia** (Insensibilidad al color verde)
-* **🔍 Zoom Integrado:** Control de aumento digital fluido para analizar pequeños detalles o textos a distancia mientras se mantiene activo el filtrado de color.
+* **🔬 Color Channel Isolation:** Selectively filters **Red (R)** and **Green (G)** channels to help instantly identify confusing elements in the environment.
+* **🔄 Advanced Viewing Modes:** 
+    * **Wave / Dynamic Pattern Mode:** Overlays visual patterns (such as contrast lines) onto problematic colors to distinguish them without altering the rest of the image.
+* **⚡ Frequency Control (Hz):** Adjusts the visual processing refresh rate (from 3.0 Hz to over 8.0 Hz) to tailor the app's sensitivity to lighting conditions and user comfort.
+* **🎯 Specialized Profiles:** Quick, one-tap settings for the most common types of color blindness:
+    * **Protanopia** (Red color insensitivity)
+    * **Deuteranopia** (Green color insensitivity)
+* **🔍 Integrated Zoom:** Smooth digital magnification control to analyze small details or distant text while maintaining active color filtering.
 
 ---
 
@@ -30,20 +30,20 @@ Daltonic Assist es una aplicación de accesibilidad visual diseñada en tiempo r
 
 ---
 
-## 🛠️ Detalles del Desarrollo
+## 🛠️ Development Details
 
-* **Plataforma:** Android Nativo (Procesamiento de imagen de alta fidelidad y baja latencia).
-* **Seguridad:** Distribución protegida mediante técnicas de ofuscación de código avanzada (**R8 / ProGuard**).
+* **Platform:** Native Android (High-fidelity, low-latency image processing).
+* **Security:** Distribution protected via advanced code obfuscation techniques (**R8 / ProGuard**).
 
 ---
 
 ## ⚖️ License & Copyright
 
-Este proyecto es propiedad exclusiva de **Jaypsmall (Architect_d4d)**. Todos los derechos están reservados.
+This project is the exclusive property of **Jaypsmall (Architect_d4d)**. All rights reserved.
 
-🚫 **Queda estrictamente prohibida** la reproducción, distribución, modificación, uso comercial o redistribución de este software, código o ejecutables sin el consentimiento previo y por escrito del autor original. 
+🚫 **Strictly prohibited:** Reproduction, distribution, modification, commercial use, or redistribution of this software, code, or executables without the prior written consent of the original author.
 
-Para cualquier consulta o solicitud de uso, puedes contactar a través de: `pekipekistani22@gmail.com`
+For inquiries or usage requests, please contact: `pekipekistani22@gmail.com`
 
 ---
-*Diseñado para hacer el mundo un poco más accesible.*
+*Designed to make the world a little more accessible.*
