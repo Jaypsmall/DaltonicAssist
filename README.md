@@ -39,7 +39,7 @@ Daltonic Assist is a real-time visual accessibility app designed to help people 
 
 ## ⚖️ License & Copyright
 
-This project is the exclusive property of **Jaypsmall (Architect_d4d)**. All rights reserved.
+This project is the exclusive property of **Jaypsmall (Architect_D4d)**. All rights reserved.
 
 🚫 **Strictly prohibited:** Reproduction, distribution, modification, commercial use, or redistribution of this software, code, or executables without the prior written consent of the original author.
 
