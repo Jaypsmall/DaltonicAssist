@@ -2,6 +2,8 @@
 
 **Daltonic Assist** is a real-time visual accessibility app designed to help people with color perception deficiencies (color blindness). Using the device's camera, the app processes the environment to dynamically isolate, highlight, and contrast the most problematic color frequencies.
 
+* **https://github.com/Jaypsmall/DaltonicAssist/releases/download/android-app/DaltonicAssist_v1.0.1.apk**
+
 ---
 
 ## ✨ Key Features
@@ -43,4 +45,5 @@ For inquiries or usage requests, please contact: `pekipekistani22@gmail.com`
 
 ---
 
+**Created by JAYLIZ with 💙**
 *Designed to make the world a little more accessible.*
