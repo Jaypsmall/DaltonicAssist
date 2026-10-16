@@ -1,8 +1,10 @@
-# 👁️ Daltonic Assist (v1.0.1) ![Android](https://img.shields.io/badge/Android-181717?style=flat&logo=android&logoColor=yellow) ![Kotlin](https://img.shields.io/badge/kotlin-181717?style=flat&logo=kotlin&logoColor=yellow)
+# 👁️ Daltonic Assist (v1.0.1) ![Android](https://img.shields.io/badge/Android-181717?style=flat&logo=android&logoColor=green) ![Kotlin](https://img.shields.io/badge/kotlin-181717?style=flat&logo=kotlin&logoColor=green)
 
 **Daltonic Assist** Es una aplicación de accesibilidad visual en tiempo real diseñada para ayudar a personas con deficiencias en la percepción del color (daltonismo). Mediante la cámara del dispositivo, la aplicación procesa el entorno para aislar, resaltar y contrastar dinámicamente las frecuencias de color más problemáticas.
 
-* **https://github.com/Jaypsmall/DaltonicAssist/releases/download/android-app/DaltonicAssist_v1.0.1.apk**
+<a href="https://github.com/Jaypsmall/DaltonicAssist/releases/download/android-app/DaltonicAssist_v1.0.1.apk">
+<img src="https://img.shields.io/badge/DOWNLOAD_DALTONIC_ASSIST_v1.0.1_APK-181717?style=flat&logo=android&logoColor=green" alt="Download Release">
+</a>
 
 ---
 
