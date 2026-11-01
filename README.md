@@ -47,5 +47,5 @@ For inquiries or usage requests, please contact: `pekipekistani22@gmail.com`
 
 ---
 
-**Created by JAYLIZ with 💙**
-*Designed to make the world a little more accessible.*
+**Creado por JAYLIZ con 💙**
+*Diseñado para hacer el mundo un poco más accesible.*
