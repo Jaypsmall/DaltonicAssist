@@ -41,7 +41,7 @@
 
 This project is the exclusive property of **Jaypsmall (Architect_D4d)**. All rights reserved.
 
-🚫 **Strictly prohibited:** Reproduction, distribution, modification, commercial use, or redistribution of this software, code, or executables without the prior written consent of the original author.
+🚫 **Estrictamente prohibido:** Reproducción, distribución, modificación, uso comercial o redistribución de este software, código o ejecutables sin el consentimiento previo por escrito del autor original.
 
 For inquiries or usage requests, please contact: `pekipekistani22@gmail.com`
 
